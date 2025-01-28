@@ -3,11 +3,17 @@ How to run a 2 inch TFT Module 240x320 ST7789V GMT020-02 on ESP8266(Nodemcu) wit
 
 
 VCC to 3.3V
+
 GND to GND
+
 SCL to D5 (GPIO 14)
+
 SDA to D7 (GPIO 13)
+
 RES to D2 (GPIO 4)
+
 DC to D1 (GPIO 5)
+
 CS to D3 (GPIO 0)
 
 
